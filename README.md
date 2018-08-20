@@ -1,7 +1,7 @@
 # NYT_Tech_Articles
-Lead Developer for project
+Developer: Brad Knaysi
+Email: bak9cu@virginia.edu
 
-Created an algorithm to fetch New York Times Technology Page articles.
-Designed functions to withdraw HTML content using regular expressions.
-Coded trimming and sorting methods to discard nonessential data and improve readability.
-Updates at each run, preventing outdated information retrieval.
+Purpose: create an algorithm to fetch New York Times Technology Page articles
+
+Technical: Coded in Python functions to parse HTML content via regular expressions matching. Coded filtering methods on data to make it cleaner and readable.
